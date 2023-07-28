@@ -1,0 +1,4 @@
+{
+    "embedding_dim": 100,
+    "reduce_sum": true
+}

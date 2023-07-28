@@ -1,0 +1,12 @@
+Namespace(batch_size=128, dataset_name='Movielens1M', epochs=10, gpu_index=0, lr=0.001, model_name='FM', seed='1', wd=0.001)
+{'embedding_dim': 100, 'reduce_sum': True}
+Epoch 1/10, Train Loss: 0.6915, AUC: 0.7489
+Epoch 2/10, Train Loss: 0.6514, AUC: 0.7497
+Epoch 3/10, Train Loss: 0.6513, AUC: 0.7497
+Epoch 4/10, Train Loss: 0.6513, AUC: 0.7497
+Epoch 5/10, Train Loss: 0.6513, AUC: 0.7497
+Epoch 6/10, Train Loss: 0.6513, AUC: 0.7497
+Epoch 7/10, Train Loss: 0.6513, AUC: 0.7497
+Epoch 8/10, Train Loss: 0.6513, AUC: 0.7497
+Epoch 9/10, Train Loss: 0.6513, AUC: 0.7497
+Epoch 10/10, Train Loss: 0.6513, AUC: 0.7497

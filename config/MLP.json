@@ -1,0 +1,5 @@
+{
+    "embedding_dim": 100,
+    "hidden_dim": [100,100],
+    "dropout": 0.1
+}

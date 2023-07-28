@@ -1,0 +1,6 @@
+{
+    "embedding_dim": 100,
+    "hidden_dim": [100,100],
+    "reduce_sum": true,
+    "dropout": 0.1
+}
